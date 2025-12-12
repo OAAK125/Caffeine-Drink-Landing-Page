@@ -1,2 +1,2 @@
-# Caffine Drink Landing Page
+# Caffeine Drink Landing Page
 A landing page built with React, Tailwind CSS & GSAP
